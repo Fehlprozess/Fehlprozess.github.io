@@ -1,7 +1,7 @@
 @charset "UTF-8";
 @font-face {
   font-family: myfont;
-  src: url("./css/SourceHanSerifCNMedium.ttf"); }
+  src: url("FZYouSJJW_506L.TTF"); }
 
 body, button, input, select, textarea {
   font-family: "Ovo", "Georgia","SourceHanSansSC-Medium","Source-Han-Medium","Source Han Sans CN","SourceHanSansCN-Medium","SourceHanSerifCNMedium",myfont, "Microsoft YaHei", serif; }
