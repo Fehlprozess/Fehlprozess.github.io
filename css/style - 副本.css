@@ -1,10 +1,6 @@
 @charset "UTF-8";
-@font-face {
-  font-family: SourceHanSerifSC;
-  src: url("https://github.com/adobe-fonts/source-han-serif/raw/release/Variable/WOFF2/OTF/SourceHanSerifSC-VF.otf.woff2") format("woff2"); }
-
 body, button, input, select, textarea {
-  font-family: "Ovo", "Georgia", SourceHanSerifSC, "Microsoft YaHei", serif; }
+  font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif; }
 
 a.tag.article-tag {
   font-size: 0.9rem;
