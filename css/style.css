@@ -1,10 +1,10 @@
 @charset "UTF-8";
 @font-face {
   font-family: myfont;
-  src: url("NotoSans-Regular.ttf"); }
+  src: url("FZYouSJJW_506L.TTF"); }
 
 body, button, input, select, textarea {
-  font-family: "Ovo", "Georgia", myfont, "Microsoft YaHei", serif; }
+  font-family: "Ovo", "Georgia","SourceHanSansSC-Light","Source-Han-Light","Source Han Sans CN","SourceHanSansCN-Light" ,myfont, "Microsoft YaHei", serif; }
 
 a.tag.article-tag {
   font-size: 0.9rem;
